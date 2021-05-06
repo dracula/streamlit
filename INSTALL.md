@@ -1,4 +1,4 @@
-### [X](http://link-to-x.com)
+### [Steamlit](http://https://streamlit.io/)
 
 #### Install using Git
 
@@ -12,6 +12,11 @@ Download using the [GitHub .zip download](https://github.com/dracula/template/ar
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+Streamlit's team has created a short video on custom theming [here](https://www.youtube.com/watch?v=Mz12mlwzbVU). For this guide, we'll apply the theme to the global config file:
+
+1. Themes are held in a `config.toml` file
+    - For macOS/Linux users, the global config file is located at `~/.streamlit/config.toml`
+    - For Windows users, the global config file is located at `%userprofile%/.streamlit/config.toml`
+2. If this file does not exist, copy the file from `sample/config.toml` into the directory `.streamlit`. If this file does exist, copy the contents of `sample/config.toml` into the existing file and save
+3. Run your Streamlit app for the theme to be applied
+    - If it does not apply automatically, you can activate it by clicking the hamburger icon in the top-right of your Streamlit app > **Settings** > **Theme** > **Custom Theme**
