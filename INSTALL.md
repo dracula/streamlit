@@ -1,4 +1,4 @@
-### [Steamlit](http://https://streamlit.io/)
+### [Steamlit](https://streamlit.io/)
 
 #### Install using Git
 

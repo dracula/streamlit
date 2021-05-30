@@ -1,6 +1,6 @@
-# Dracula for [Steamlit](http://https://streamlit.io/)
+# Dracula for [Steamlit](https://streamlit.io/)
 
-> A dark theme for [Steamlit](http://https://streamlit.io/).
+> A dark theme for [Steamlit](https://streamlit.io/).
 
 ![Screenshot1](./screenshot.png)
 ![Screenshot2](./screenshot2.png)
